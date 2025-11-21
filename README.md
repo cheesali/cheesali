@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGM+Nerd+Font&weight=800&pause=1000&color=0aa3a3&vCenter=true&repeat=false&width=435&height=20&lines=Hi+there%2C+I'm+Alina+%F0%9F%91%8B)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGM+Nerd+Font&weight=800&pause=1000&color=0aa3a3&vCenter=true&repeat=false&width=435&height=20&lines=Hi+there%2C+I'm+Alina+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 **Information Systems & Programming Student**  
 💻 **Full-stack developer** passionate about creating clean, efficient, and scalable applications.
@@ -27,13 +27,6 @@
 
 ---
 
-### 🚀 Current Focus
-
-- Building a **web admin panel** with *Starlette*  
-- Expanding skills in **Machine Learning**  
-- Organizing knowledge through **Obsidian**
-
----
 
 ### 📊 GitHub Stats
 
